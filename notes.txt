@@ -1,0 +1,5 @@
+1. isolate test - test only class/ts file or any service mock
+2. shallow test - test class with component and mock the child component
+3. deep integration test - test class with component and with child
+
+https://github.com/leelanarasimha/Angular-Unit-Testing
